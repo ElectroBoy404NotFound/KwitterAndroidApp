@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "79153385170",
+    "firebase_url": "https://kwitter-2a961-default-rtdb.firebaseio.com",
+    "project_id": "kwitter-2a961",
+    "storage_bucket": "kwitter-2a961.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79153385170:android:97e6283dbbd69cc914270b",
+        "android_client_info": {
+          "package_name": "me.ElectronicsBoy.kwitter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDop5KRX1KZWvSS3RmGKNcE5L2gJZvsZpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79153385170:android:05ccb2bb42f4952614270b",
+        "android_client_info": {
+          "package_name": "me.electronicsboy.kwitterandroidapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDop5KRX1KZWvSS3RmGKNcE5L2gJZvsZpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79153385170:android:575b8d8b4253706414270b",
+        "android_client_info": {
+          "package_name": "me.electronicsboy.kwittermobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDop5KRX1KZWvSS3RmGKNcE5L2gJZvsZpo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "79153385170-004qrjkkhrgtkm750rgqh8jefpf8ojn8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
